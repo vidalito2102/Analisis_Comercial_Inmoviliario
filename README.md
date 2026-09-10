@@ -1,7 +1,7 @@
 # Analisis_Comercial_Inmoviliario
 
-Este repositorio contiene el análisis del desempeño comercial para comprender su crecimiento, rentabilidad y comportamiento de los clientes
-Se construyo un **dashboard ejecutivo** que permite analizar ventas, clientes y propiedades para apoyar decisiones estratégicas basadas en datos.
+Este repositorio contiene el análisis del desempeño comercial de una empresa inmobiliaria para comprender su crecimiento, rentabilidad y comportamiento de los clientes
+Se construyo un **dashboard ejecutivo** que permite analizar ventas, clientes y propiedades para apoyar decisiones estratégicas basadas en los datos.
 
 Los Datasets analizados son los siguientes:
 
